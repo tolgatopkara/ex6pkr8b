@@ -1,0 +1,1 @@
+{"ast":null,"code":"// src/index.ts\nexport * from \"@primeuix/styled\";","map":{"version":3,"names":[],"sources":["/home/project/node_modules/@primeng/themes/index.mjs"],"sourcesContent":["// src/index.ts\nexport * from \"@primeuix/styled\";\n"],"mappings":"AAAA;AACA,cAAc,kBAAkB","ignoreList":[]},"metadata":{},"sourceType":"module","externalDependencies":[]}
